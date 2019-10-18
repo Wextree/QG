@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1524049772 source:e:\嵌入式\qg训练营第二次培训\软件工程-黄贞树-嵌入式--第二次\四则运算\代码和头文件\fun.c
+	<stdio.h>
+	<stdlib.h>
+	"calculate.h"
+
+1524049214 e:\嵌入式\qg训练营第二次培训\软件工程-黄贞树-嵌入式--第二次\四则运算\代码和头文件\calculate.h
+
+1524051647 source:e:\嵌入式\qg训练营第二次培训\软件工程-黄贞树-嵌入式--第二次\四则运算\代码和头文件\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculate.h"
+

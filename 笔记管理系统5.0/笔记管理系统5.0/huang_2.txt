@@ -1,0 +1,4 @@
+¸ùÄ¿Â¼ e:\test 0
+aa e:\test\aa 0
+ccc.txt e:\test\aa\ccc.txt 0
+aaa.txt e:\test\aaa.txt 0

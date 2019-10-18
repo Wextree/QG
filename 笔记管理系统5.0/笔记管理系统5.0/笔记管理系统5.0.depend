@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1526200816 source:e:\嵌入式\笔记管理系统5.0\asist.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<io.h>
+	"note.h"
+
+1526161310 e:\嵌入式\笔记管理系统5.0\note.h
+
+1526199802 source:e:\嵌入式\笔记管理系统5.0\fun.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<io.h>
+	<tchar.h>
+	<direct.h>
+	<shellapi.h>
+	<stdbool.h>
+	"note.h"
+
+1526200865 source:e:\嵌入式\笔记管理系统5.0\main.c
+	<stdio.h>
+	<tchar.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<io.h>
+	<direct.h>
+	<shellapi.h>
+	"note.h"
+

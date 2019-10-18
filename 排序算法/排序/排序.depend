@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1525621031 source:e:\嵌入式\排序算法\排序\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<stdbool.h>
+
+1525621050 source:e:\嵌入式\排序算法\排序\sort.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<stdbool.h>
+

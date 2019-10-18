@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1525350511 source:e:\嵌入式\图书管理系统\图书管理系统\fun.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"book.h"
+	<conio.h>
+	<stdarg.h>
+
+1525348344 e:\嵌入式\图书管理系统\图书管理系统\book.h
+
+1525348672 source:e:\嵌入式\图书管理系统\图书管理系统\linkfun.c
+	<stdio.h>
+	<stdlib.h>
+	"book.h"
+
+1525329199 source:e:\嵌入式\图书管理系统\图书管理系统\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"book.h"
+
+1525349997 source:e:\嵌入式\图书管理系统\图书管理系统\open_close.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	"book.h"
+
